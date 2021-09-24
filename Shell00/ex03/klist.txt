@@ -1,0 +1,20 @@
+Credentials cache: API:D0E4FF3A-BCF2-4296-A0DA-35D2BE84D158
+        Principal: mbarylak@42MADRID.COM
+
+  Issued                Expires               Principal
+Aug  3 11:15:13 2021  Aug  3 21:15:13 2021  krbtgt/42MADRID.COM@42MADRID.COM
+
+
+Credentials cache: API:E39B9C91-6D95-498A-87C0-AFA742844634
+        Principal: mbarylak@42MADRID.COM
+
+  Issued                Expires               Principal
+Aug  3 10:42:17 2021  Aug  3 20:42:17 2021  krbtgt/42MADRID.COM@42MADRID.COM
+
+
+Credentials cache: API:5796
+        Principal: mbarylak@42MADRID.COM
+
+  Issued                Expires               Principal
+Aug  3 10:33:17 2021  Aug  3 20:33:17 2021  krbtgt/42MADRID.COM@42MADRID.COM
+Aug  3 10:33:17 2021  Aug  3 20:33:17 2021  HTTP/student-storage.42madrid.com@42MADRID.COM
